@@ -2,6 +2,10 @@
 
 Aplicación para dar servicio a clientes alojados en hoteles de lujo.
 
-Este código es lo que llevamos en el Sprint 2. Lo hemos subido en formato zip ya que es demasiado grande para subirlo en git hub con otro formato.
+Tenemos dos zip. Uno de ellos es la versión antigua que hicimos para el sprint 2.
 
-Lo iremos modificando y actulizando para el siguiente Sprint.
+La última versión para el sprint 3 es 
+
+Lo hemos subido en formato zip ya que es demasiado grande para subirlo en git hub con otro formato.
+
+
